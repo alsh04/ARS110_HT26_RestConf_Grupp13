@@ -35,12 +35,12 @@ This is results of an assignment about making and testing Restconf scripts using
 
 ## Results and Verification
 We started off with doing the skill exam like any other CCNA student in 2009 would. Once we were done and thoroughly tested all the requirements - we used postman to extract all the required data we needed.
-**Subtask 1 - Setup management and restconf:** 
+### Subtask 1 - Setup management and restconf: 
 Once we had all the data and initial iteration of our script, we reloaded our devices and used the serial cable to only write down just the initial hostnames, ssh user data and most importantly management alongside with enabling resconf.
-**Subtask 2 - Write and run the script:**
+### Subtask 2 - Write and run the script:
 <img width="500" height="602" alt="Screenshot_2026-10-11_120112" src="https://github.com/user-attachments/assets/f9d8a0d8-5dab-4a7e-ba29-64ac1a6a1737" />
 
-**Subtask 3 - Write and verify the script:**
+### Subtask 3 - Write and verify the script:
 <img width="471" height="632" alt="image" src="https://github.com/user-attachments/assets/74e8d01e-29f6-4111-9cb0-ac2ea7df1e0a" />
 
 ## Conclusion
