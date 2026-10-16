@@ -218,6 +218,6 @@ print()
 if failed == 0:
     print("GODKÄNT (G)")
 else:
-    print("UNDERKÄNT (U)")
+    print(f"UNDERKÄNT (U) [{failed} Failed]")
 
 print("Svar: Nej, inget skript kan ersätta Robert :)")
